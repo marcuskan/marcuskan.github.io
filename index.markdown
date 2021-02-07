@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 'All posts'
 ---
 
 <!-- <button type="button" class="btn btn-primary">Primary</button> -->
