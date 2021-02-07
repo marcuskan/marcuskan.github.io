@@ -4,15 +4,6 @@ title: Marcus Kan
 permalink: /about/
 ---
 
-<figure>
-  <blockquote class="blockquote">
-    <p>You should be far more concerned with your current trajectory than with your current results.</p>
-  </blockquote>
-  <figcaption class="blockquote-footer">
-    James Clear in <cite title="Source Title">Atomic Habits</cite>
-  </figcaption>
-</figure>
-
 Hi, I'm Marcus. I write about thoughts on ITSM.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
