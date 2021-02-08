@@ -11,6 +11,20 @@
     crossorigin="anonymous"
   />
   <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-EJ7QXJ8H67"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EJ7QXJ8H67');
+  </script>
   {%- feed_meta -%} {%- if jekyll.environment == 'production' and
   site.google_analytics -%} {%- include google-analytics.html -%} {%- endif -%}
   {%- include custom-head.html -%}
