@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The thing about IT Policies"
 ---
 
 # Welcome
