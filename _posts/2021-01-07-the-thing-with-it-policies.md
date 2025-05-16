@@ -7,7 +7,7 @@ title:  "Parsing Exchange SMTP logs to find out who's sending through your Excha
 
 **Hello world**, this is my first Jekyll blog post.
 
-`  SELECT 
+<code>  SELECT 
     EXTRACT_PREFIX(remote-endpoint, 0, ':') AS RemoteIP,
     EXTRACT_TOKEN(Data, 1, ' ') AS Hostname,
     COUNT(*) AS OccurrenceCount
@@ -23,4 +23,4 @@ GROUP BY
     EXTRACT_TOKEN(Data, 1, ' ')
 ORDER BY 
     OccurrenceCount DESC`
-    `
+</code>
