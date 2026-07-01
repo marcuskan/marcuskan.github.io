@@ -1,12 +1,12 @@
 ---
-
 layout: post
 title: "The best result is that nothing happened"
 date: 2026-06-30 00:00:00 +1200
 categories: [leadership, infrastructure, operations]
 tags: [infrastructure, operations, resilience, technology, leadership]
 excerpt: "Good operations is not just about recovering well. It is about reducing how often we need to recover."
-----------------------------------------------------------------------------------------------------------------
+---
+
 
 Over the last few months, we’ve had a few useful reminders of how visible infrastructure becomes when it doesn’t behave the way people expect.
 
