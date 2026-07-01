@@ -20,7 +20,9 @@ They just get on with it.
 
 And that’s kind of the point.
 
+
 ## The work people do not see
+
 
 I’ve been thinking about this a lot recently, partly because our team has been working through a lot of foundational infrastructure work.
 
@@ -64,7 +66,9 @@ Incident response matters.
 
 But the better outcome is usually quieter.
 
+
 ## The better outcome is usually boring
+
 
 It’s the change that goes in and nobody notices.
 
@@ -86,7 +90,9 @@ Good operations isn’t just about recovering well.
 
 It’s about reducing how often we need to recover.
 
+
 ## Fewer surprises matter
+
 
 I’m lucky to work with a small team that carries a lot of this quietly.
 
